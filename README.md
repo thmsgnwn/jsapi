@@ -32,6 +32,8 @@ API Web atau API Layanan Web merupakan sebuah antarmuka pemrosesan aplikasi anta
 
 Perbedaan istilah-istilah dalam API, seperti API Java atau API layanan, muncul karena secara historis API telah dibuat sebelum world wide web ada. API web modern adalah API REST dan istilah-istilah tersebut dapat digunakan bergantian.
 # Apa itu integrasi API?
+![test](https://d1.awsstatic.com/whatisimg/New-API-GW-Diagram.c9fc9835d2a9aa00ef90d0ddc4c6402a2536de0d%20(1).67a41a2ef9823282fe672434ddd56dd22c13d5a5.png)
+
 
 Integrasi API adalah komponen perangkat lunak yang secara otomatis memperbarui data antara klien dan server. Beberapa contoh integrasi API terjadi saat sinkronisasi data otomatis ke cloud dari galeri gambar ponsel Anda, atau sinkronisasi waktu dan tanggal secara otomatis di laptop Anda saat Anda berada di zona waktu lain. Korporasi juga dapat menggunakannya untuk mengotomatisasi berbagai fungsi sistem secara efisien.
 
