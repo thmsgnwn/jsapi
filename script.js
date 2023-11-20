@@ -52,7 +52,7 @@ const selectCategory = (e, category) => {
   options.forEach((element) => {
     element.classList.remove("active");
   });
-  requestURL = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=${apiKey}`;
+  requestURL = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=5380d432777b48f68ff31bc19158b8a7`;
   e.target.classList.add("active");
   getNews();
 };
@@ -73,6 +73,6 @@ const init = () => {
 };
 
 window.onload = () => {
-  requestURL = `https://newsapi.org/v2/top-headlines?country=us&category=general&apiKey=${apiKey}`;
+  requestURL = `https://newsapi.org/v2/top-headlines?country=us&category=general&apiKey=5380d432777b48f68ff31bc19158b8a7`;
   init();
 };
